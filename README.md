@@ -11,7 +11,7 @@ Apaixonada por tecnologia. Estudando programação pela Digital House - Full Sta
 ##
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/julianny-sousa-50343b108/)
-[![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]( https://www.linkedin.com/in/julianny-sousa-50343b108/)
+[![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/juliannysousaa)
 
 ## Tecnologias que estou estudando no curso de full stack
 
