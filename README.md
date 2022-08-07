@@ -8,10 +8,6 @@ Apaixonada por tecnologia. Estudando programação pela Digital House - Full Sta
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliannySousa&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-##
-
-[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/julianny-sousa-50343b108/)
-[![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/juliannysousaa)
 
 ## Tecnologias que estou estudando no curso de full stack
 
@@ -22,6 +18,11 @@ Apaixonada por tecnologia. Estudando programação pela Digital House - Full Sta
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   </div><br/>
+  
+  ##
+
+[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/julianny-sousa-50343b108/)
+[![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/juliannysousaa)
   
   
   ![Snake animation]( https://github.com/JuliannySousa/juliannysousa/blob/output/github-contribution-grid-snake.svg)
